@@ -1,0 +1,11 @@
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\bin\Debug\Practico1.2.exe.config
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\bin\Debug\Practico1.2.exe
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\bin\Debug\Practico1.2.pdb
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.csproj.AssemblyReference.cache
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1._2.Form1.resources
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1._2.Properties.Resources.resources
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.csproj.GenerateResource.cache
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.exe
+C:\Users\Priscila\source\repos\Practico1.2\Practico1.2\obj\Debug\Practico1.2.pdb
